@@ -8,7 +8,6 @@ console.log(soma(2, 3));
 function areaQuadrado(lado){
     return lado**2;
 }
-
 console.log(areaQuadrado(5));
 
 let areaTriangulo=function(base, altura){
@@ -20,3 +19,6 @@ let areaTrapezio=function(basemaior,basemenor,altura){
 return(basemaior+basemenor)*altura/2;
 }
  console.log(areaTrapezio(10,9,5));
+ 
+ let HeloIsa=prompt('sera?')
+ document write('acho que sim')
