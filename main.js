@@ -20,5 +20,5 @@ return(basemaior+basemenor)*altura/2;
 }
  console.log(areaTrapezio(10,9,5));
  
- let HeloIsa=prompt('a helo saiu do chat?');
- document.write('hoje não');
+ let HeloIsa=prompt('como faz a area do triangulo?');
+ document.write('base*altura/2');
