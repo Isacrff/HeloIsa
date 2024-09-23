@@ -20,5 +20,5 @@ return(basemaior+basemenor)*altura/2;
 }
  console.log(areaTrapezio(10,9,5));
  
- let HeloIsa=prompt('sera?')
- document write('acho que sim')
+ let HeloIsa=prompt('sera?');
+ document write('acho que sim');
