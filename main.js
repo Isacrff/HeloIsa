@@ -10,3 +10,8 @@ function areaQuadrado(lado){
 }
 
 console.log(areaQuadrado(5));
+
+let areaTriangulo=function(parametro){
+    return parametro;
+}
+console.log(areaTriangulo())
