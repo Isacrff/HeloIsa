@@ -34,3 +34,10 @@
 // document.write(media(num1,num2,num3));
 
 let estado = ['Paraná', 'São paulo', 'Minas Gerais', 'Rio de Janeiro', 'Acre', 'Alagoas', 'Amapá', 'Amazonas', 'Bahia', 'Ceará','Espírito Santo','Goiás','Maranhão','Mato Grosso','Mato Grosso do Sul','Pará','Paraíba','Pernambuco','Piauí','Rio Grande do Norte','Rio Grande do Sul','Rondônia','Roraima','Santa Catarina','Sergipe','Tocantins','Distrito Federal']
+
+let i=0
+while (i<estados.length){
+    console.log(1);
+    console.log(estados[i]);
+   i++;
+}
